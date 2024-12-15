@@ -1,0 +1,85 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.apdisk
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# Project special files
+*.pdb
+*.v12.suo
+*.psess
+*.vspx
+*.suo
+*.tmp_proj
+AcManager.VC.*
+.idea/*
+Packages/*
+TestResults/*
+*/obj/*
+
+# Result files
+*/bin
+*/Publish
+
+# For debugging, VS builds faster in just one output folder
+Output/*
+
+# Local settings
+.vs/*
+*.DotSettings
+*.csproj.user
+*.csproj.vspscc
+*.tss
+*.DotSettings.user
+
+# Compiled shaders
+*.fx.o
+
+# Output from tests
+AcTools.Tests/test/kn5/*
+
+# WPF shaders
+FirstFloor.ModernUI/Effects/Shaders/run.bat
+FirstFloor.ModernUI/Effects/Shaders/*.sublime-*
+
+# Some icon sizes which are not that important
+AcManager/Assets/Icons/Source/*-16.png
+AcManager/Assets/Icons/Source/*-32.png
+AcManager/Assets/Icons/Source/*-256.png
+
+# Helper scripts
+IgnoreVersionFiles.bat
+*tmp.csproj
+.vscode/*
