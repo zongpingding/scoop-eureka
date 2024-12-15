@@ -21,7 +21,7 @@ scoop install scoop-eureka/snipaste
 `bin`, the name of the download executable file, syntax form:
 
 ```json
-"bin": "[[ "<program name>.exe, "<alias>" ]]
+"bin": [ [ "<program name>.exe", "<alias>" ] ]
 ```
 
 # REF SITES
